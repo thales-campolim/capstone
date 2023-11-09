@@ -1,6 +1,6 @@
-## Advanced Data Analyst Certificate Project
+## Google Advanced Data Analyst Certificate Project
 
-This project forms a crucial component of the Advanced Data Analyst Certificate program.
+This project forms a crucial component of the Google Advanced Data Analyst Certificate program.
 
 The objective is to utilize a machine learning model on a Human Resources dataset sourced from Kaggle. The aim is to assess the likelihood of an employee leaving a company.
 
